@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author SunLionAhh
  */
 @SpringBootApplication
-public class CommunityApplication {
+public class CarApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CommunityApplication.class, args);
+        SpringApplication.run(CarApplication.class, args);
     }
 
 }
